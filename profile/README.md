@@ -1,7 +1,11 @@
 # About Us
 
-## Hi there 👋
+We are on a mission to democratize access to healthcare insights
 
-We are on a mission to democratize access to healthcare information by leveraging the power of AI and exponential technologies
+Our current focus is drug development and market access
+
+We are just starting 
 
 More coming soon... 
+
+[PharmaBrain](http://www.pharmabrain.ai/)
