@@ -2,7 +2,7 @@
 
 We are on a mission to democratize access to healthcare insights
 
-Our current focus is drug development and market access
+Our current focus is on drug development 
 
 We are just starting 
 
