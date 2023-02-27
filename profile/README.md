@@ -1,6 +1,6 @@
 # About Us
 
-**Vision:** Help bring forward innovations for the benefit of healthcare
+**Vision:** Bring forward innovations for the benefit of healthcare
 
 **Mission** Democratize access to healthcare information
 
